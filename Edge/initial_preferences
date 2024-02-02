@@ -1,0 +1,124 @@
+{
+  "browser": {
+    "show_discover_toolbar_button": false,
+    "show_hub_apps_tower_pinned": false,
+    "show_profile_icon_in_title_bar": false,
+    "show_edge_split_window_toolbar_button": false,
+    "show_toolbar_collections_button": false,
+    "show_toolbar_downloads_button": true,
+    "show_toolbar_vertical_tabs_button": false,
+    "show_toolbar_browser_essentials_button": 0
+  },
+  "edge_quick_search": {
+    "show_mini_menu": false
+  },
+  "edge": {
+    "show_pip_overlay_control": false
+  },
+  "smart_explore": {
+    "on_image_hover": false
+  },
+  "extensions": {
+    "settings": {
+      "odfafepnkmbhccpbejgmiehpchacaeak": {
+        "location": 1,
+        "manifest": {
+          "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtej8nZ6GDzzNjLD1WCjkbCf15gZlrgzMn9To0ef+6Tiyk6uDSePSaaiMG+8rNgTCQM1ES6Hy8XzTJf8o19ldg1GXHE4MAdjjzDNv3ya05Vj71r/dzI9OyL45DnshMYdW7lyzHp7nt1L5uWtmZs4MiOO43RrWzrGuvhhUdQm9rz4nOgu9q7FWqZP6kUYL42TJgQ6Sc0Qu25TshDdJME3uK5z/kV3BNlmQFDhuAXQZKP/KCV2ogG7R/VcHj1a2ETjRFMQxtQUaWtCmpDYw7URD4CuRNy9LBTylNASfFCHLAEc9MWqFD1Alj63o+WsqBP/h81Vs7nH6PnXQg9+fOCpMyQIDAQAB",
+          "name": "uBlock Origin (Installing...)",
+          "permissions": [
+            "contextMenus",
+            "privacy",
+            "storage",
+            "tabs",
+            "unlimitedStorage",
+            "webNavigation",
+            "webRequest",
+            "webRequestBlocking",
+            "<all_urls>"
+          ],
+          "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+          "version": "0.0",
+          "manifest_version": 2
+        },
+        "content_scripts": [
+          {
+            "all_frames": true,
+            "js": [
+              "/js/vapi.js",
+              "/js/vapi-client.js",
+              "/js/contentscript.js"
+            ],
+            "match_about_blank": true,
+            "matches": [
+              "http://*/*",
+              "https://*/*"
+            ],
+            "run_at": "document_start"
+          },
+          {
+            "all_frames": false,
+            "js": [
+              "/js/scriptlets/subscriber.js"
+            ],
+            "matches": [
+              "https://easylist.to/*",
+              "https://*.fanboy.co.nz/*",
+              "https://filterlists.com/*",
+              "https://forums.lanik.us/*",
+              "https://github.com/*",
+              "https://*.github.io/*",
+              "https://*.letsblock.it/*"
+            ],
+            "run_at": "document_idle"
+          },
+          {
+            "all_frames": false,
+            "js": [
+              "/js/scriptlets/updater.js"
+            ],
+            "matches": [
+              "https://github.com/uBlockOrigin/*",
+              "https://ublockorigin.github.io/*",
+              "https://*.reddit.com/r/uBlockOrigin/*"
+            ],
+            "run_at": "document_idle"
+          }
+        ],
+        "path": "odfafepnkmbhccpbejgmiehpchacaeak\\0.0",
+        "state": 1,
+        "granted_permissions": {
+          "api": [
+            "contextMenus",
+            "privacy",
+            "storage",
+            "tabs",
+            "unlimitedStorage",
+            "webNavigation",
+            "webRequest",
+            "webRequestBlocking"
+          ],
+          "explicit_host": [
+            "<all_urls>",
+            "edge://favicon/*"
+          ],
+          "manifest_permissions": [],
+          "scriptable_host": [
+            "http://*/*",
+            "https://*.fanboy.co.nz/*",
+            "https://*.github.io/*",
+            "https://*.letsblock.it/*",
+            "https://*.reddit.com/r/uBlockOrigin/*",
+            "https://*/*",
+            "https://easylist.to/*",
+            "https://filterlists.com/*",
+            "https://forums.lanik.us/*",
+            "https://github.com/*",
+            "https://github.com/uBlockOrigin/*",
+            "https://ublockorigin.github.io/*"
+          ]
+        },
+        "incognito": true
+      }
+    }
+  }
+}
