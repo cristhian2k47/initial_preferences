@@ -8,4 +8,4 @@
 | Setting | Description |
 | --- | --- |
 | "privacy_sandbox": "m1": "prompt_suppressed": 5 | Disable privacy sandbox ad prompt |
-| "extensions": "settings": "cjpalhdlnbpafiamejdnhcphjbkeiagm" | Install uBlock Origin |
+| "extensions": "settings": "cjpalhdlnbpafiamejdnhcphjbkeiagm"... | Install uBlock Origin |
