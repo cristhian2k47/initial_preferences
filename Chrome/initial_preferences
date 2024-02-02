@@ -4,6 +4,11 @@
       "prompt_suppressed": 5
     }
   },
+  "profile": {
+    "default_content_setting_values": {
+      "clipboard": 1
+    }
+  },
   "extensions": {
     "settings": {
       "cjpalhdlnbpafiamejdnhcphjbkeiagm": {
