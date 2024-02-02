@@ -6,6 +6,11 @@
     "ai_chat": {
       "autocomplete_provider_enabled": false
     },
+    "profile": {
+      "default_content_setting_values": {
+        "clipboard": 1
+      }
+    },
     "new_tab_page": {
       "hide_all_widgets": true,
       "show_brave_news": false,
