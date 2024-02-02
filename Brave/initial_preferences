@@ -1,0 +1,22 @@
+{
+  "brave": {
+    "brave_vpn": {
+      "show_button": false
+    },
+    "ai_chat": {
+      "autocomplete_provider_enabled": false
+    },
+    "new_tab_page": {
+      "hide_all_widgets": true,
+      "show_brave_news": false,
+      "show_branded_background_image": false
+    },
+    "rewards": {
+      "show_brave_rewards_button_in_location_bar": false
+    },
+    "wallet": {
+      "show_wallet_icon_on_toolbar": false
+    },
+    "show_side_panel_button": false
+  }
+}
