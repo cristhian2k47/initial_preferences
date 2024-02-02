@@ -3,6 +3,9 @@
     "brave_vpn": {
       "show_button": false
     },
+    "ai_chat": {
+      "autocomplete_provider_enabled": false
+    },
     "new_tab_page": {
       "hide_all_widgets": true,
       "show_brave_news": false,
