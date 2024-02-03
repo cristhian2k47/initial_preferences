@@ -29,6 +29,7 @@
 | "browser": "show_discover_toolbar_button": false | Hide Copilot icon in toolbar |
 | "browser": "show_hub_apps_tower_pinned": false | Hide sidebar |
 | "browser": "show_profile_icon_in_title_bar": false | Show profile icon in toolbar instead of title bar |
+| "browser": "show_edge_split_window_toolbar_button": false | Hide Split screen icon in toolbar |
 | "browser": "show_toolbar_collections_button": false | Hide collections icon in toolbar |
 | "browser": "show_toolbar_downloads_button": true | Show download icon in toolbar |
 | "browser": "show_toolbar_vertical_tabs_button": false | Hide tab actions menu in title bar |
