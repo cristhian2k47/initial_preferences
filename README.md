@@ -16,6 +16,7 @@
 | "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards icon in location bar |
 | "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon in toolbar |
 | "show_side_panel_button": false | Hide sidebar icon in toolbar |
+| "tabs_search_show": false | Hide tab search icon in titlebar |
 
 # Chrome initial_preferences example file changes
 | Setting | Description |
