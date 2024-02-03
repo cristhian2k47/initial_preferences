@@ -8,14 +8,14 @@
 # Brave initial_preferences example file changes
 | Setting | Description |
 | --- | --- |
-| "brave": "brave_vpn": "show_button": false | Hide VPN icon on toolbar |
-| "brave": "ai_chat": "autocomplete_provider_enabled": false | Hide Leo AI autocomplete suggestions in address bar |
-| "brave": "new_tab_page": "hide_all_widgets": true | Hide Cards in new tab page |
-| "brave": "new_tab_page": "show_brave_news": false | Hide Brave news in new tab page |
-| "brave": "new_tab_page": "show_branded_background_image": false | Hide Sponsored Images in new tab page |
-| "brave": "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards icon in location bar |
-| "brave": "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon on toolbar |
-| "brave": "show_side_panel_button": false | Hide sidebar icon on toolbar |
+| "brave_vpn": "show_button": false | Hide VPN icon on toolbar |
+| "ai_chat": "autocomplete_provider_enabled": false | Hide Leo AI autocomplete suggestions in address bar |
+| "new_tab_page": "hide_all_widgets": true | Hide Cards in new tab page |
+| "new_tab_page": "show_brave_news": false | Hide Brave news in new tab page |
+| "new_tab_page": "show_branded_background_image": false | Hide Sponsored Images in new tab page |
+| "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards icon in location bar |
+| "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon on toolbar |
+| "show_side_panel_button": false | Hide sidebar icon on toolbar |
 
 # Chrome initial_preferences example file changes
 | Setting | Description |
