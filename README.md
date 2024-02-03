@@ -13,7 +13,7 @@
 | "brave": "new_tab_page": "hide_all_widgets": true | Hide Cards in new tab page |
 | "brave": "new_tab_page": "show_brave_news": false | Hide Brave news in new tab page |
 | "brave": "new_tab_page": "show_branded_background_image": false | Hide Sponsored Images in new tab page |
-| "brave": "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards button in location bar |
+| "brave": "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards icon in location bar |
 | "brave": "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon on toolbar |
 | "brave": "show_side_panel_button": false | Hide sidebar icon on toolbar |
 
