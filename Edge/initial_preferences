@@ -7,6 +7,7 @@
     "show_toolbar_collections_button": false,
     "show_toolbar_downloads_button": true,
     "show_toolbar_vertical_tabs_button": false,
+    "show_toolbar_edge_generic_sidebar_button": false,
     "show_toolbar_browser_essentials_button": 0
   },
   "edge_quick_search": {
