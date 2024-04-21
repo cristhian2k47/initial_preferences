@@ -34,7 +34,9 @@
 | "browser": "show_toolbar_downloads_button": true | Show download icon in toolbar |
 | "browser": "show_toolbar_vertical_tabs_button": false | Hide tab actions menu in title bar |
 | "browser": "show_toolbar_edge_generic_sidebar_button": false | Hide sidebar button |
+| "browser": "show_toolbar_workspaces_button": false | Hide Workspaces |
 | "browser": "show_toolbar_browser_essentials_button": 0 | Hide browser essentials icon in toolbar |
+| "local_browser_data_share": "enabled": false | Don't share browsing data with other Windows features |
 | "edge_quick_search": "show_mini_menu": false | Hide mini menu when selecting text |
 | "edge": "show_pip_overlay_control": false | Hide Picture in picture control inside video frame |
 | "smart_explore": "on_image_hover": false | Hide hover menu on image hover |
