@@ -8,7 +8,11 @@
     "show_toolbar_downloads_button": true,
     "show_toolbar_vertical_tabs_button": false,
     "show_toolbar_edge_generic_sidebar_button": false,
+    "show_toolbar_workspaces_button": false,
     "show_toolbar_browser_essentials_button": 0
+  },
+  "local_browser_data_share": {
+    "enabled": false
   },
   "edge_quick_search": {
     "show_mini_menu": false
