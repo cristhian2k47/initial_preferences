@@ -17,6 +17,7 @@
 | "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon in toolbar |
 | "show_side_panel_button": false | Hide sidebar icon in toolbar |
 | "tabs_search_show": false | Hide tab search icon in titlebar |
+| "download": "prompt_for_download": false | Don't ask where to save each file before downloading |
 
 # Chrome initial_preferences example file changes
 | Setting | Description |
