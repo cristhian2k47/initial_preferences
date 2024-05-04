@@ -19,5 +19,8 @@
     },
     "show_side_panel_button": false,
     "tabs_search_show": false
+  },
+  "download": {
+    "prompt_for_download": false
   }
 }
