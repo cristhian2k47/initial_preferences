@@ -42,3 +42,4 @@
 | "edge_quick_search": "show_mini_menu": false | Hide mini menu when selecting text |
 | "edge": "show_pip_overlay_control": false | Hide Picture in picture control inside video frame |
 | "smart_explore": "on_image_hover": false | Hide hover menu on image hover |
+| "extensions": "settings": "odfafepnkmbhccpbejgmiehpchacaeak" | Install ublock origin |
