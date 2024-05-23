@@ -17,6 +17,9 @@
     "wallet": {
       "show_wallet_icon_on_toolbar": false
     },
+    "omnibox": {
+      "commander_suggestions_enabled": false
+    },
     "show_side_panel_button": false,
     "tabs_search_show": false
   },
