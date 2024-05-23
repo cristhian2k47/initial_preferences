@@ -15,6 +15,7 @@
 | "new_tab_page": "show_branded_background_image": false | Hide Sponsored Images in new tab page |
 | "rewards": "show_brave_rewards_button_in_location_bar": false | Hide Brave Rewards icon in location bar |
 | "wallet": "show_wallet_icon_on_toolbar": false | Hide wallet icon in toolbar |
+| "omnibox": "commander_suggestions_enabled": false | Hide Quick commands autocomplete suggestions in address bar |
 | "show_side_panel_button": false | Hide sidebar icon in toolbar |
 | "tabs_search_show": false | Hide tab search icon in titlebar |
 | "download": "prompt_for_download": false | Don't ask where to save each file before downloading |
