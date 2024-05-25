@@ -28,7 +28,6 @@
             "http://*/*",
             "https://*.fanboy.co.nz/*",
             "https://*.github.io/*",
-            "https://*.letsblock.it/*",
             "https://*.reddit.com/r/uBlockOrigin/*",
             "https://*/*",
             "https://easylist.to/*",
@@ -68,8 +67,7 @@
                 "https://filterlists.com/*",
                 "https://forums.lanik.us/*",
                 "https://github.com/*",
-                "https://*.github.io/*",
-                "https://*.letsblock.it/*"
+                "https://*.github.io/*"
               ],
               "run_at": "document_idle"
             },
