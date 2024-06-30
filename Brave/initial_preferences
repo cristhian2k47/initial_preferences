@@ -1,87 +1,90 @@
 {
-  "brave": {
-    "brave_vpn": {
-      "show_button": false
-    },
-    "ai_chat": {
-      "autocomplete_provider_enabled": false
-    },
-    "new_tab_page": {
-      "hide_all_widgets": true,
-      "show_brave_news": false,
-      "show_branded_background_image": false
-    },
-    "rewards": {
-      "show_brave_rewards_button_in_location_bar": false
-    },
-    "wallet": {
-      "show_wallet_icon_on_toolbar": false
-    },
-    "omnibox": {
-      "commander_suggestions_enabled": false
-    },
-    "show_side_panel_button": false,
-    "tabs_search_show": false
-  },
-  "download": {
-    "prompt_for_download": false
-  },
-  "default_search_provider": {
-    "synced_guid": "485bf7d3-0215-45af-87dc-538868000001"
-  },
-  "default_search_provider_data": {
-    "template_url_data": {
-      "alternate_urls": [
-        "{google:baseURL}#q={searchTerms}",
-        "{google:baseURL}search#q={searchTerms}",
-        "{google:baseURL}webhp#q={searchTerms}",
-        "{google:baseURL}s#q={searchTerms}",
-        "{google:baseURL}s?q={searchTerms}"
-      ],
-      "choice_location": 0,
-      "contextual_search_url": "{google:baseURL}_/contextualsearch?{google:contextualSearchVersion}{google:contextualSearchContextData}",
-      "created_by_policy": 0,
-      "created_from_play_api": false,
-      "date_created": "0",
-      "doodle_url": "",
-      "enforced_by_policy": false,
-      "favicon_url": "https://www.google.com/images/branding/product/ico/googleg_alldp.ico",
-      "featured_by_policy": false,
-      "id": "3",
-      "image_search_branding_label": "",
-      "image_translate_source_language_param_key": "sourcelang",
-      "image_translate_target_language_param_key": "targetlang",
-      "image_translate_url": "{google:baseSearchByImageURL}upload?filtertype=tr&{imageTranslateSourceLocale}{imageTranslateTargetLocale}",
-      "image_url": "{google:baseSearchByImageURL}upload",
-      "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
-      "input_encodings": [
-        "UTF-8"
-      ],
-      "is_active": 0,
-      "keyword": ":g",
-      "last_modified": "0",
-      "last_visited": "0",
-      "logo_url": "",
-      "new_tab_url": "",
-      "originating_url": "",
-      "preconnect_to_search_url": true,
-      "prefetch_likely_navigations": true,
-      "prepopulate_id": 1,
-      "safe_for_autoreplace": true,
-      "search_intent_params": [
-        "si",
-        "gs_ssp"
-      ],
-      "search_url_post_params": "",
-      "short_name": "Google",
-      "side_image_search_param": "sideimagesearch",
-      "side_search_param": "sidesearch",
-      "starter_pack_id": 0,
-      "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
-      "suggestions_url_post_params": "",
-      "synced_guid": "485bf7d3-0215-45af-87dc-538868000001",
-      "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}",
-      "usage_count": 0
-    }
-  }
+   "brave": {
+      "brave_vpn": {
+         "show_button": false
+      },
+      "ai_chat": {
+         "autocomplete_provider_enabled": false
+      },
+      "new_tab_page": {
+         "hide_all_widgets": true,
+         "show_brave_news": false,
+         "show_branded_background_image": false
+      },
+      "rewards": {
+         "show_brave_rewards_button_in_location_bar": false
+      },
+      "wallet": {
+         "show_wallet_icon_on_toolbar": false
+      },
+      "omnibox": {
+         "commander_suggestions_enabled": false
+      },
+      "show_side_panel_button": false,
+      "tabs_search_show": false
+   },
+   "download": {
+      "prompt_for_download": false
+   },
+   "translate": {
+      "enabled": false
+   },
+   "default_search_provider": {
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000001"
+   },
+   "default_search_provider_data": {
+      "template_url_data": {
+         "alternate_urls": [
+            "{google:baseURL}#q={searchTerms}",
+            "{google:baseURL}search#q={searchTerms}",
+            "{google:baseURL}webhp#q={searchTerms}",
+            "{google:baseURL}s#q={searchTerms}",
+            "{google:baseURL}s?q={searchTerms}"
+         ],
+         "choice_location": 0,
+         "contextual_search_url": "{google:baseURL}_/contextualsearch?{google:contextualSearchVersion}{google:contextualSearchContextData}",
+         "created_by_policy": 0,
+         "created_from_play_api": false,
+         "date_created": "0",
+         "doodle_url": "",
+         "enforced_by_policy": false,
+         "favicon_url": "https://www.google.com/images/branding/product/ico/googleg_alldp.ico",
+         "featured_by_policy": false,
+         "id": "3",
+         "image_search_branding_label": "",
+         "image_translate_source_language_param_key": "sourcelang",
+         "image_translate_target_language_param_key": "targetlang",
+         "image_translate_url": "{google:baseSearchByImageURL}upload?filtertype=tr&{imageTranslateSourceLocale}{imageTranslateTargetLocale}",
+         "image_url": "{google:baseSearchByImageURL}upload",
+         "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
+         "input_encodings": [
+            "UTF-8"
+         ],
+         "is_active": 0,
+         "keyword": ":g",
+         "last_modified": "0",
+         "last_visited": "0",
+         "logo_url": "",
+         "new_tab_url": "",
+         "originating_url": "",
+         "preconnect_to_search_url": true,
+         "prefetch_likely_navigations": true,
+         "prepopulate_id": 1,
+         "safe_for_autoreplace": true,
+         "search_intent_params": [
+            "si",
+            "gs_ssp"
+         ],
+         "search_url_post_params": "",
+         "short_name": "Google",
+         "side_image_search_param": "sideimagesearch",
+         "side_search_param": "sidesearch",
+         "starter_pack_id": 0,
+         "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
+         "suggestions_url_post_params": "",
+         "synced_guid": "485bf7d3-0215-45af-87dc-538868000001",
+         "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}",
+         "usage_count": 0
+      }
+   }
 }
