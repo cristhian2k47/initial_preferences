@@ -23,6 +23,16 @@
       "show_side_panel_button": false,
       "tabs_search_show": false
    },
+   "profile": {
+      "content_settings": {
+         "enable_cpss": {
+            "notifications": false
+         },
+         "enable_quiet_permission_ui": {
+            "notifications": true
+         }
+      }
+   },
    "download": {
       "prompt_for_download": false
    },
