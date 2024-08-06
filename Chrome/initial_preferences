@@ -4,15 +4,8 @@
          "prompt_suppressed": 5
       }
    },
-   "profile": {
-      "content_settings": {
-         "enable_cpss": {
-            "notifications": false
-         },
-         "enable_quiet_permission_ui": {
-            "notifications": true
-         }
-      }
+   "translate": {
+      "enabled": false
    },
    "extensions": {
       "settings": {
