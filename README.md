@@ -28,7 +28,7 @@
 | Setting | Description |
 | --- | --- |
 | "privacy_sandbox": "m1": "prompt_suppressed": 5 | Disable privacy sandbox ad prompt |
-| "profile": "content_settings": | Collapse all notifications requests in the address bar |
+| "translate": "enabled": false | Disable google translate |
 | "extensions": "settings": "cjpalhdlnbpafiamejdnhcphjbkeiagm" | Install ublock origin |
 
 # Edge initial_preferences example file changes
