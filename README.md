@@ -4,6 +4,7 @@
 | Brave | `"C:\Program Files\BraveSoftware\Brave-Browser\Application"` |
 | Chrome | `"C:\Program Files\Google\Chrome\Application"` |
 | Edge | `"C:\Program Files (x86)\Microsoft\Edge\Application"` |
+| Vivaldi | `"C:\Program Files\Vivaldi\Application"` |
 
 # Brave initial_preferences example file changes
 | Setting | Description |
@@ -22,7 +23,6 @@
 | "download": "prompt_for_download": false | Don't ask where to save each file before downloading |
 | "translate": "enabled": false | Disable Brave Translate |
 | "default_search_provider": | Normal Window - Search engine used in the address bar: Google |
-
 
 # Chrome initial_preferences example file changes
 | Setting | Description |
@@ -48,3 +48,8 @@
 | "edge": "show_pip_overlay_control": false | Hide Picture in picture control inside video frame |
 | "smart_explore": "on_image_hover": false | Hide hover menu on image hover |
 | "extensions": "settings": "odfafepnkmbhccpbejgmiehpchacaeak" | Install ublock origin |
+
+# Vivaldi initial_preferences example file changes
+| Setting | Description |
+| --- | --- |
+| "vivaldi": "workspaces": "button": "show_in_tabbar": false | Hide Workspaces in Tab Bar |
