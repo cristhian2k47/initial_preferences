@@ -1,0 +1,9 @@
+{
+   "vivaldi": {
+      "workspaces": {
+         "button": {
+            "show_in_tabbar": false
+         }
+      }
+   }
+}
