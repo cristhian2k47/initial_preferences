@@ -4,12 +4,14 @@
          "show_button": false
       },
       "ai_chat": {
-         "autocomplete_provider_enabled": false
+         "autocomplete_provider_enabled": false,
+         "show_toolbar_button": false
       },
       "new_tab_page": {
          "hide_all_widgets": true,
+         "show_branded_background_image": false,
          "show_brave_news": false,
-         "show_branded_background_image": false
+         "show_clock": true
       },
       "rewards": {
          "show_brave_rewards_button_in_location_bar": false
@@ -20,8 +22,7 @@
       "omnibox": {
          "commander_suggestions_enabled": false
       },
-      "show_side_panel_button": false,
-      "tabs_search_show": false
+      "show_side_panel_button": false
    },
    "download": {
       "prompt_for_download": false
