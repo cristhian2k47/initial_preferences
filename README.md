@@ -10,8 +10,8 @@
 | Setting | Description |
 | --- | --- |
 | "brave_vpn": "show_button": false | Hide VPN icon in toolbar |
-| "sidebar": "hidden_built_in_items": [7, 1, 2] | Hide Leo [7], Brave Talk [1] and Brave Wallet [2] |
-| "sidebar": "last_used_built_in_item_type": 3 | Default to bookmark when opening sidebar |
+| "sidebar": "hidden_built_in_items": [7, 1, 2] | Hide Leo [7], Brave Talk [1] and Brave Wallet [2] from sidebar |
+| "sidebar": "last_used_built_in_item_type": 3 | Default to bookmarks when opening sidebar |
 | "ai_chat": "autocomplete_provider_enabled": false | Hide Leo AI autocomplete suggestions in address bar |
 | "ai_chat": "context_menu_enabled": false | Hide Leo in the context menu on websites |
 | "ai_chat": "show_toolbar_button": false | Hide Leo AI button |
