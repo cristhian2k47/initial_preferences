@@ -2,6 +2,7 @@
    "browser": {
       "show_discover_toolbar_button": false,
       "show_hub_apps_tower_pinned": false,
+      "hub_apps_tower_visible": true,
       "show_profile_icon_in_title_bar": false,
       "show_edge_split_window_toolbar_button": false,
       "show_toolbar_collections_button": false,
