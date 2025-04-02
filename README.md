@@ -34,7 +34,8 @@
 | Setting | Description |
 | --- | --- |
 | "browser": "show_discover_toolbar_button": false | Hide Copilot icon in toolbar |
-| "browser": "show_hub_apps_tower_pinned": false | Hide sidebar |
+| "browser": "show_hub_apps_tower_pinned": false | Hide sidebar button |
+| "browser": "hub_apps_tower_visible": true | Always show sidebar |
 | "browser": "show_profile_icon_in_title_bar": false | Show profile icon in toolbar instead of title bar |
 | "browser": "show_edge_split_window_toolbar_button": false | Hide Split screen icon in toolbar |
 | "browser": "show_toolbar_collections_button": false | Hide collections icon in toolbar |
