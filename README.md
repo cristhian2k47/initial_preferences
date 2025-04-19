@@ -34,14 +34,12 @@
 | Setting | Description |
 | --- | --- |
 | "browser": "show_discover_toolbar_button": false | Hide Copilot icon in toolbar |
-| "browser": "show_hub_apps_tower_pinned": false | Hide sidebar button |
 | "browser": "hub_apps_tower_visible": true | Always show sidebar |
 | "browser": "show_profile_icon_in_title_bar": false | Show profile icon in toolbar instead of title bar |
 | "browser": "show_edge_split_window_toolbar_button": false | Hide Split screen icon in toolbar |
 | "browser": "show_toolbar_collections_button": false | Hide collections icon in toolbar |
 | "browser": "show_toolbar_downloads_button": true | Show download icon in toolbar |
 | "browser": "show_toolbar_vertical_tabs_button": false | Hide tab actions menu in title bar |
-| "browser": "show_toolbar_edge_generic_sidebar_button": false | Hide sidebar button |
 | "browser": "show_toolbar_workspaces_button": false | Hide Workspaces |
 | "browser": "show_toolbar_browser_essentials_button": 0 | Hide browser essentials icon in toolbar |
 | "local_browser_data_share": "enabled": false | Don't share browsing data with other Windows features |
